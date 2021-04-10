@@ -1,6 +1,6 @@
 # Data-Structures
 
-|Assignment|내용|설명|
+|Assignment|Contents|Description|
 |------|---|---|
 |Assignment1|A|Pseudo-Palindrome Checker / prints number of characters that do not match|
 ||B|Pseudo-Palindrome Checker / make the longest palindrome|
