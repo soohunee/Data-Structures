@@ -14,5 +14,3 @@
 ||B| Build max heap|
 |Assignment5|A|Implementation of inorder traversal of threaded binary tree|
 ||B|Heap implementation for 3-digit pentadecimal numbers|
-
-
